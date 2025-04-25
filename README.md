@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesa Fadhillah Andre</h1>
-<h3 align="center">A 2nd year Informatics Engineering Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesa005&label=Profile%20views&color=0e75b6&style=flat" alt="mahesa005" />
-</p>
+<h3 align="center">A 2nd year Informatics Engineering Student in Institut Teknologi Bandung</h3>
 
 ---
 
@@ -37,9 +33,6 @@
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesa005&show_icons=true&locale=en" alt="stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesa005&" alt="streak" />
 </p>
 
 ---
