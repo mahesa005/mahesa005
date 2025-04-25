@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahesa Fadhillah Andre</h1>
+<h3 align="center">A 2nd year Informatics Engineering Student</h3>
 
-<!--
-**mahesa005/mahesa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahesa005&label=Profile%20views&color=0e75b6&style=flat" alt="mahesa005" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 I'm currently in my 2nd year studying Informatics Engineering  
+- 🌱 Focused on frontend development using **Next.js** and learning backend step by step  
+- 💻 Familiar with **Python, C, C++, Java**, and currently exploring more fullstack skills  
+- ✨ Open to collaboration and learning from others  
+
+### 📫 How to reach me
+- Email: **mahesa0208@gmail.com**
+- LinkedIn: [mahesa005](https://linkedin.com/in/mahesa005)
+- LeetCode: [mahesa005](https://leetcode.com/mahesa005)
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesa005&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesa005&show_icons=true&locale=en" alt="stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesa005&" alt="streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahesa005&theme=onedark&column=3&margin-w=15&margin-h=15" alt="trophies"/>
+  </a>
+</p>
