@@ -21,9 +21,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesa005&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesa005&show_icons=true&locale=en" alt="stats" />
 </p>
