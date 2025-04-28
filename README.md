@@ -9,13 +9,6 @@
 - 💻 Familiar with **Python, C, C++, Java**, and currently exploring more fullstack skills  
 - ✨ Open to collaboration and learning from others  
 
-### 📫 How to reach me
-- Email: **mahesa0208@gmail.com**
-- LinkedIn: [mahesa005](https://linkedin.com/in/mahesa005)
-- LeetCode: [mahesa005](https://leetcode.com/mahesa005)
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -34,6 +27,15 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesa005&show_icons=true&locale=en" alt="stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahesa005&theme=react&hide_border=true" alt="activity graph"/>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesa005&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+
 
 ---
 
