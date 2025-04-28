@@ -20,19 +20,20 @@
 
 ---
 
-### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesa005&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesa005&show_icons=true&locale=en" alt="stats" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahesa005&theme=react&hide_border=true" alt="activity graph"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahesa005&theme=onedark&column=3&margin-w=15&margin-h=15" alt="trophies"/>
+  </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesa005&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
 
 ---
 
