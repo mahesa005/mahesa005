@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m **Mahesa**!  <br>🎓 2nd-year Informatics Engineering student at ITB  <br>🧩 Passionate about algorithms and coding challenges  <br>💻 Currently exploring C++, Java, JavaScript & TypeScript  <br>🌐 Seeking hands-on experience in web development (frontend & backend)  <br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesa005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesa-andre-2696002b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa0208@gmail.com) 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg" />
@@ -26,4 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mahesa005&theme=graywhite&no-frame=false&no-bg=true&margin-w=4" alt="Mahesa’s GitHub trophies" />
 </p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesa005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesa-andre-2696002b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa0208@gmail.com) 
 
