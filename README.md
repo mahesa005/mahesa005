@@ -23,5 +23,5 @@
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesa005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesa-andre-2696002b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa0208@gmail.com) [![Sporify](https://open.spotify.com/user/caj74xjecqh1dpceu5bpmgpj6?si=pAUJCKGnQAmN1ruXyVWhhg&dl_branch=1&fbclid=PAZXh0bgNhZW0CMTEAAaedbAzQX9bWRAk984Pw3JWqbhjcMBB7VsaloGXwyg2yTKuKcg9Mk1owTEr4_w_aem_DqJ3RByGZgCGXC1vTp9GdA&nd=1&dlsi=3f939cae42fc401d)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesa005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesa-andre-2696002b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa0208@gmail.com) [![Spotify](https://open.spotify.com/user/caj74xjecqh1dpceu5bpmgpj6?si=pAUJCKGnQAmN1ruXyVWhhg&dl_branch=1&fbclid=PAZXh0bgNhZW0CMTEAAaedbAzQX9bWRAk984Pw3JWqbhjcMBB7VsaloGXwyg2yTKuKcg9Mk1owTEr4_w_aem_DqJ3RByGZgCGXC1vTp9GdA&nd=1&dlsi=3f939cae42fc401d)
 
