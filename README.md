@@ -1,6 +1,5 @@
 # About Me
 
-**Mahesa Fadhillah**  
 🎓 2nd-year Informatics Engineering @ Institut Teknologi Bandung (ITB)  
 
 🔍 Passionate about solving algorithmic puzzles and turning ideas into clean, scalable code
