@@ -1,5 +1,11 @@
-# 💫 About Me
-👋 Hi, I’m **Mahesa**!  <br>🎓 2nd-year Informatics Engineering student at ITB  <br>🧩 Passionate about algorithms and coding challenges  <br>💻 Currently exploring C++, Java, JavaScript & TypeScript  <br>🌐 Seeking hands-on experience in web development (frontend & backend)  <br>
+# About Me
+
+**Mahesa Fadhillah**  
+🎓 2nd-year Informatics Engineering @ Institut Teknologi Bandung (ITB)  
+
+🔍 Passionate about solving algorithmic puzzles and turning ideas into clean, scalable code
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake-dark.svg" />
