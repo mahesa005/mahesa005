@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I’m Mahesa—a Computer Science undergrad at Institut Teknologi Bandung (ITB). I’m a passionate learner who loves turning what I learn into tools and applications that benefit others
+👋 Hi, I’m Mahesa—a Computer Science undergrad at Institut Teknologi Bandung (ITB). I’m a passionate learner who loves turning what I learn into tools and applications that benefit others.
 
 🧩 I enjoy experimenting with algorithms. I also enjoy collaborating on team projects.
 
