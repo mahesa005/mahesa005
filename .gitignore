@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# Java / Kotlin / Android
+*.class
+*.jar
+*.war
+*.apk
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
