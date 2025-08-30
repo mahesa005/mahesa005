@@ -1,10 +1,8 @@
 # About Me
 
-👋 Hi, I’m Mahesa—a Computer Science undergrad at Institut Teknologi Bandung (ITB). I’m a passionate learner who loves turning what I learn into tools and applications that benefit others.
-
-🧩 I enjoy experimenting with algorithms. I also enjoy collaborating on team projects.
-
-📚 Currently learning about object oriented programming.
+Welcome to my github page!
+My name is Mahesa, I am a 3rd year Informatics Engineering/Computer Science student in Institut Teknologi Bandung.
+Currently pursuing a career in software engineering and data science/AI.
 
 ---
 
@@ -14,7 +12,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg" />
 </picture>
 
-# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -38,12 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Mahesa’s GitHub stats" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mahesa005&theme=tokyonight&hide_border=false" alt="Mahesa’s GitHub streak" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
-</p>
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahesa005&theme=graywhite&no-frame=false&no-bg=true&margin-w=4" alt="Mahesa’s GitHub trophies" />
 </p>
 
 ## 🌐 Socials
