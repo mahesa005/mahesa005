@@ -12,6 +12,8 @@ Currently pursuing a career in software engineering and data science/AI.
   <img alt="github-snake" src="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg" />
 </picture>
 
+---
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -30,14 +32,16 @@ Currently pursuing a career in software engineering and data science/AI.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-%23005144.svg?style=for-the-badge&logo=gnuprolog&logoColor=white)
 
-# 📊 GitHub Stats
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Mahesa’s GitHub stats" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mahesa005&theme=tokyonight&hide_border=false" alt="Mahesa’s GitHub streak" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
-## 🌐 Socials
+---
+
 <p align="center">
   <a href="https://instagram.com/mahesa005">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
