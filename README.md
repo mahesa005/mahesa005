@@ -37,8 +37,6 @@ Currently pursuing a career in software engineering and data science/AI.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Mahesa’s GitHub stats" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mahesa005&theme=tokyonight&hide_border=false" alt="Mahesa’s GitHub streak" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
-</p>
 
 ---
 
