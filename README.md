@@ -1,5 +1,4 @@
 # Mahesa's Github Page
-## About Me
 I am Mahesa, a third year Informatics Engineering student at ITB.  
 My main interests include software engineering, full stack development, artificial intelligence, and data-driven systems.
 
