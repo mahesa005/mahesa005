@@ -8,7 +8,7 @@ I enjoy building systems end to end. My focus areas include:
 - AI systems, analytics, and automation  
 - Product development that solves real problems  
 
- _batman gif so the readme looks cooler_
+ _batman gif so the readme looks cooler:_
 
 <p align="center">
   <img src="assets/batman.gif" width="500" alt="Header GIF"/>
