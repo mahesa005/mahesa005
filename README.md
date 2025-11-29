@@ -1,6 +1,6 @@
 # Mahesa's Github Page
-I am Mahesa, a third year Informatics Engineering student at ITB.  
-My main interests include software engineering, full stack development, artificial intelligence, and data-driven systems.
+I am **Mahesa**, a third year **Informatics Engineering** student at **ITB**.  
+My main interests include **software engineering**, **full stack development**, **artificial intelligence**, and **data-driven systems**.
 
 I enjoy building systems end to end. My focus areas include:
 - Scalable backend and web development  
@@ -8,7 +8,7 @@ I enjoy building systems end to end. My focus areas include:
 - AI systems, analytics, and automation  
 - Product development that solves real problems  
 
- batman gif so the readme looks cooler
+ _batman gif so the readme looks cooler_
 
 <p align="center">
   <img src="assets/batman.gif" width="500" alt="Header GIF"/>
