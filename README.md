@@ -2,6 +2,10 @@
 ### Informatics Engineering, Institut Teknologi Bandung  
 ### Software Engineering and AI
 
+<p align="center">
+  <img src="assets/batman.gif" width="500" alt="Header GIF"/>
+</p>
+
 ---
 
 <picture>
@@ -78,10 +82,6 @@ I enjoy building systems end to end. My focus areas include:
 </p>
 
 ---
-
-<p align="center">
-  <img src="assets/batman.gif" width="500" alt="Header GIF"/>
-</p>
 
 ## Socials
 
