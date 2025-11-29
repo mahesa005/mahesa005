@@ -1,9 +1,10 @@
 # Mahesa's Github Page
-
+_batman gif so the page looks cooler:_
 <p align="center">
   <img src="assets/batman.gif" width="width:150%; max-width:150%;" alt="Header GIF"/>
 </p>
 
+----
 I am **Mahesa**, a third year **Informatics Engineering** student at **ITB**.  
 My main interests include **software engineering**, **full stack development**, **artificial intelligence**, and **data-driven systems**.
 
