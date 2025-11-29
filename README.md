@@ -14,7 +14,7 @@ Currently pursuing a career in **Software Engineering** and **Data Science/AI**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <br/>
