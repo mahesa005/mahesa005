@@ -1,6 +1,6 @@
 # Mahesa's Github Page
 
-### “Yes, father. I shall become a bat.” – Bruce Wayne/Batman, Batman: Year One 
+ batman gif so the readme looks cooler
 
 <p align="center">
   <img src="assets/batman.gif" width="500" alt="Header GIF"/>
