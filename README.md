@@ -5,7 +5,7 @@ _batman gif so the page looks cooler:_
 </p>
 
 #   
-## About Me
+### About Me
 I am **Mahesa**, a third year **Informatics Engineering** student at **ITB**. I enjoy building systems end to end. My focus areas include:
 - Scalable backend and web development  
 - Machine learning and data science  
