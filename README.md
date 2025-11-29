@@ -1,7 +1,7 @@
 # Mahesa's Github Page
 
 <p align="center">
-  <img src="assets/batman.gif" width="width:100%;max-width:none;" alt="Header GIF"/>
+  <img src="assets/batman.gif" width="width:150%; max-width:150%;" alt="Header GIF"/>
 </p>
 
 I am **Mahesa**, a third year **Informatics Engineering** student at **ITB**.  
