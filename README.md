@@ -1,5 +1,4 @@
 # Mahesa's Github Page
----
 
 ### “Yes, father. I shall become a bat.” – Bruce Wayne/Batman, Batman: Year One 
 
@@ -7,7 +6,7 @@
   <img src="assets/batman.gif" width="500" alt="Header GIF"/>
 </p>
 
----
+----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake-dark.svg"/>
