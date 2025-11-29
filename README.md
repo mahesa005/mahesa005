@@ -4,8 +4,8 @@ _batman gif so the page looks cooler:_
   <img src="assets/batman.gif" width="width:150%; max-width:150%;" alt="Header GIF"/>
 </p>
 
-#   
-### About Me
+---   
+## About Me
 I am **Mahesa**, a third year **Informatics Engineering** student at **ITB**. I enjoy building systems end to end. My focus areas include:
 - Scalable backend and web development  
 - Machine learning and data science  
