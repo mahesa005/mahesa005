@@ -14,8 +14,6 @@ Currently pursuing a career in **Software Engineering** and **Data Science/AI**.
 
 ---
 
-<div align="left"
-
 ### Tech Stack
 
 **Languages**
@@ -57,8 +55,6 @@ Currently pursuing a career in **Software Engineering** and **Data Science/AI**.
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-</div>
 
 ---
 
