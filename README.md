@@ -2,9 +2,13 @@
 ### Informatics Engineering, Institut Teknologi Bandung  
 ### Software Engineering and AI
 
-<p align="center">
-  <img src="https://www.icegif.com/batman-106.gif" width="500" alt="Header GIF"/>
-</p> 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg"/>
+</picture>
 
 ---
 
@@ -75,6 +79,10 @@ I enjoy building systems end to end. My focus areas include:
 
 ---
 
+<p align="center">
+  <img src="assets/batman.gif" width="500" alt="Header GIF"/>
+</p>
+
 ## Socials
 
 <p align="center">
@@ -83,13 +91,3 @@ I enjoy building systems end to end. My focus areas include:
   <a href="mailto:mahesa0208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
   <a href="https://open.spotify.com/user/caj74xjecqh1dpceu5bpmgpj6"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="40"/></a>
 </p>
-
----
-
-## GitHub Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mahesa005/mahesa005/output/github-snake.svg"/>
-</picture>
